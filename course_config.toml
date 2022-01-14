@@ -682,3 +682,75 @@ checksum = '0749dbc9f2fb6a612b3c1cae5ffec3f2'
 [exercises.part06-19_incorrect_lottery_numbers]
 id = 143572
 checksum = '6238353fa6385b0c92c0e2f539645995'
+
+[exercises.part07-01_hypotenuse]
+id = 144422
+checksum = '4a0d14f4a063e83fc4e12cf82d9abf5e'
+
+[exercises.part07-02_special_characters]
+id = 144414
+checksum = '8baca3a0fe104370ec088e660f466c8e'
+
+[exercises.part07-03_fractions]
+id = 144417
+checksum = 'abd51b36f980295f1735329250003879'
+
+[exercises.part07-04_lottery_numbers]
+id = 144418
+checksum = '29b8606c53f903ad9804938e7a581e56'
+
+[exercises.part07-05_password_generator_part_1]
+id = 144413
+checksum = 'e728a2d6af9301a412f65d0a42475c7a'
+
+[exercises.part07-06_password_generator_part_2]
+id = 144420
+checksum = '02530939b7784587cde796a5e150206a'
+
+[exercises.part07-07_dice_roller]
+id = 144416
+checksum = '889e66061bc2464583ef16e14d25d8b9'
+
+[exercises.part07-08_random_words]
+id = 144419
+checksum = '2c1ac091917bdb9a701a097747a44d91'
+
+[exercises.part07-09_how_old]
+id = 144421
+checksum = 'bc8bae0687a6f55e97eb9665e043c436'
+
+[exercises.part07-10_valid_pic]
+id = 144415
+checksum = '5fea8ec3a95d4139e4570ba7675928ee'
+
+[exercises.part07-11_screen_time]
+id = 144412
+checksum = '5a293f295949cbd21c4ffa7d0db50229'
+
+[exercises.part07-12_json_files]
+id = 144963
+checksum = '8fa3d8d551135eeac8726d22a1860386'
+
+[exercises.part07-13_course_statistics]
+id = 144965
+checksum = '7097c6d44a7e6a05e0c5866564d126cf'
+
+[exercises.part07-14_who_cheated]
+id = 144966
+checksum = '089abdf280e54cd2efb5711fb40cef8a'
+
+[exercises.part07-15_who_cheated_2]
+id = 144967
+checksum = 'b051105d19a798277f0d328b6daeda7f'
+
+[exercises.part07-16_spellchecker_2]
+id = 144964
+checksum = '702d3076ef252a3f9ab96704e1d28e4c'
+
+[exercises.part07-17_string_helper]
+id = 146100
+checksum = 'a7e4fd794bc52ab4217c9aade4dc748a'
+
+[exercises.part07-18_own_programming_language]
+id = 146101
+checksum = 'a2c2026bdf8c1fe4e989ad4a34841682'
