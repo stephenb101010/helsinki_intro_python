@@ -1,10 +1,10 @@
 from random import choice
 def roll(die: str):
-    if die == 'A':
+    if die == "A":
         sides = [3, 3, 3, 3, 3, 6]
-    elif die == 'B':
+    elif die == "B":
         sides = [2, 2, 2, 5, 5, 5]
-    elif die == 'C':
+    elif die == "C":
         sides = [1, 4, 4, 4, 4, 4]
     else:
         sides = []

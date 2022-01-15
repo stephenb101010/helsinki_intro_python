@@ -21,7 +21,7 @@ def generate_strong_password(length: int, contain_numbers: bool, contain_special
         how_many_lowercase_chars = length
 
     password = []
-    special_chars = list('!?=+-()#')
+    special_chars = list("!?=+-()#")
     lowercase_chars = list(ascii_lowercase)
 
     for i in range(how_many_numbers):
@@ -37,4 +37,4 @@ def generate_strong_password(length: int, contain_numbers: bool, contain_special
 
     shuffle(password)
 
-    return ''.join(password) 
+    return "".join(password) 

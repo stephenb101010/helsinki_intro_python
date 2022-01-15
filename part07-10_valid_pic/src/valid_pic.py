@@ -13,17 +13,17 @@ def is_it_valid(pic: str):
         z = pic[10]
         nums = pic[0:6] + pic[7:10]
         index = int(nums)%31
-        control = '0123456789ABCDEFHJKLMNPRSTUVWXY'[index]
+        control = "0123456789ABCDEFHJKLMNPRSTUVWXY"[index]
 
-        if dd < 1 or dd > 31 or mm < 1 or mm > 12 or X not in ('-','+','A') or z != control:
+        if dd < 1 or dd > 31 or mm < 1 or mm > 12 or X not in ("-","+","A") or z != control:
             return False
 
         century = 0
-        if X == '-':
+        if X == "-":
             century = 1800
-        elif X == '+':
+        elif X == "+":
             century = 1900
-        elif X == 'A':
+        elif X == "A":
             century = 2000
 
         dob_year = century + yy
