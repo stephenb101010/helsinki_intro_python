@@ -1,7 +1,7 @@
 from string import ascii_lowercase
 from random import randint, shuffle
 
-def generate_strong_password(length: int, contain_numbers: bool, contain_specialchars: bool) -> string:
+def generate_strong_password(length: int, contain_numbers: bool, contain_specialchars: bool):
     how_many_lowercase_chars = 1
     how_many_numbers = 0
     how_many_specialchars = 0
