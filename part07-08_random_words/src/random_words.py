@@ -4,7 +4,7 @@ def words(n: int, beginning: str) -> list:
     found_words = []
     with open("words.txt") as word_file:
         for line in word_file:
-            word = line.replace("\n", "")
+            word = line.strip("\n")
             if word.startswith(beginning):
                 found_words.append(word)
 
